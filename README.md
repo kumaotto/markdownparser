@@ -1,2 +1,2 @@
 # markdownparser
-Markdown Parser in Laravel
+Markdown Parser in TypeScript
